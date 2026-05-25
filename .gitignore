@@ -2,3 +2,6 @@
 node_modules
 .tmp
 npm-debug.log
+app1.log
+app2.log
+krsna/
